@@ -1,0 +1,6 @@
+Installation
+1.React Package install through vite(fast installation):
+Run ‘npm create vite@latest’
+Provide Project_name and then Select React and Typescript/Javascript from the options.
+Change the folder to the project folder and Run ‘npm install’
+								
